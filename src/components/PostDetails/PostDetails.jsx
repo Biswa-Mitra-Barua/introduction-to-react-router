@@ -10,7 +10,7 @@ const PostDetails = () => {
     const {id, title, body} = post;
 
     const handleGoBack = () => {
-        navigate(-1)
+        navigate(-1)  
     }
     console.log(postId)
 
